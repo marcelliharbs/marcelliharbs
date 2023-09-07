@@ -1,4 +1,4 @@
-## 👋 Olá, me chamo Marcelli Harbs.
+# 👋 Olá, me chamo Marcelli Harbs
 - 🌱 Cursando Ciência da Computação na FURB, em Blumenau - SC.
 - 📫 Contate-me: marcelliharbs@gmail.com
 
